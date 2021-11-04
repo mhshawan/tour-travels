@@ -1,0 +1,37 @@
+.common-banner{
+    background-color: #37B3E4;
+    padding: 120px 0px;
+}
+
+.special-top{
+    background-color: #F0F8FF;
+}
+
+
+.holistically {
+    width: 90%;
+}
+
+
+.specialist-contact {
+    background-color: aliceblue;
+}
+
+.main-features {
+    background-color: #162f62;
+    padding: 20px;
+    text-align: center;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 10px 13px -7px #7dd6f6;
+    margin-bottom: 25px;
+}
+
+.feature h3{
+    color: #fff;
+}
+
+.feature p{
+    color: #fff;
+}
+
