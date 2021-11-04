@@ -3,7 +3,7 @@
 - Project Description: This project is for a travel agency website, where everybody can find their tour package and know about the details which are offered from the travel agency.
 - Credibly intermediate backend ideas for cross-platform models. Continually intermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
 
-- Live link of the project()
+- Live link of the project(https://tour-travels-website.netlify.app/)
 
 - code link here(https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-mhshawan)
 - server side link (https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-mhshawan)

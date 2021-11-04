@@ -1,11 +1,11 @@
 // Web App's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAi_eIe-9J_GnfggViZnz-zEB9WGqjM7uU",
-  authDomain: "tour-travels-eb824.firebaseapp.com",
-  projectId: "tour-travels-eb824",
-  storageBucket: "tour-travels-eb824.appspot.com",
-  messagingSenderId: "752449960097",
-  appId: "1:752449960097:web:fa6d17a94649caafc758e0"
+  apiKey: "AIzaSyCwoZ_fR26WQJb2pizOj_TNdWRGo9Eh7jk",
+  authDomain: "tour-website-79ae1.firebaseapp.com",
+  projectId: "tour-website-79ae1",
+  storageBucket: "tour-website-79ae1.appspot.com",
+  messagingSenderId: "872455080178",
+  appId: "1:872455080178:web:c5fd1db68e7d15a892286b"
 };
 
 export default firebaseConfig;
