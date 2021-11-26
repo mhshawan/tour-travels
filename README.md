@@ -5,9 +5,6 @@
 
 - Live link of the project(https://tour-travels-website.netlify.app/)
 
-- code link here(https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-mhshawan)
-- server side link (https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-mhshawan)
-
 ## Available Scripts
 
 In the project directory, you can run:
